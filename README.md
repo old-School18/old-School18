@@ -15,8 +15,8 @@
 ## Connect with me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/shyam-prasad-cpdsalgo99/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.24.0/icons/linkedin.svg" alt="LinkedIn" height="40" width="40" /></a>
-<a href="https://codeforces.com/profile/oldSchool"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.24.0/icons/codeforces.svg" alt="Codeforces" height="40" width="40" /></a>
-<a href="https://www.codechef.com/users/techknight18"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.24.0/icons/codechef.svg" alt="Codechef" height="40" width="40" /></a>
-<a href="https://stackoverflow.com/users/12536034/old-school"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.24.0/icons/stackoverflow.svg" alt="Stackoverflow" height="40" width="40" /></a>
-<a href="https://www.quora.com/profile/Shyam-Prasad-240"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.24.0/icons/quora.svg" alt="Quora" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/shyam-prasad-cpdsalgo99/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.24.0/icons/linkedin.svg" alt="LinkedIn" height="40" width="40" /></a>
+<a href="https://codeforces.com/profile/oldSchool" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.24.0/icons/codeforces.svg" alt="Codeforces" height="40" width="40" /></a>
+<a href="https://www.codechef.com/users/techknight18" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.24.0/icons/codechef.svg" alt="Codechef" height="40" width="40" /></a>
+<a href="https://stackoverflow.com/users/12536034/old-school" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.24.0/icons/stackoverflow.svg" alt="Stackoverflow" height="40" width="40" /></a>
+<a href="https://www.quora.com/profile/Shyam-Prasad-240" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.24.0/icons/quora.svg" alt="Quora" height="40" width="40" /></a>
