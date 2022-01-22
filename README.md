@@ -1,5 +1,4 @@
-<!--START_SECTION:update_image-->
-<!--END_SECTION:update_image-->
+<img src="https://github.com/old-School18/old-School18/blob/main/old_school_profile.gif
 
 # Hey there! 👋 This is Shyam Prasad aka *old_school*⭐ 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=old-School18.visitor-badge&left_text=Profile%20Visitors)
