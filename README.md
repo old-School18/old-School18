@@ -10,7 +10,8 @@
 * Deep Learning, Natural Language Processing are my key areas of interest.
 * I just started out on Web Development.
 * I'm an avid reader. A forever fan of Charles Dickens and JK Rowling 🪄.
-* Reach out to me **oldschool.orz@gmail.com**
+* Find out more about me on my **[Resume](https://drive.google.com/file/d/1NMUOS40x9xGSj6mj3pxPxgliSTenpExj/view?usp=sharing)**.
+* Reach out to me **pshyamprasad2018@gmail.com**
 
 ## Connect with me
 
