@@ -10,7 +10,7 @@
 * Deep Learning, Natural Language Processing are my key areas of interest.
 * I just started out on Web Development.
 * I'm an avid reader. A forever fan of Charles Dickens and JK Rowling 🪄.
-* Find out more about me on my **[Resume](https://drive.google.com/file/d/1mJM2FPP3E2_3wUTrdQRJlU5XjGETXW7Y/view?usp=sharing)**.
+* Find out more about me on my **[Resume](https://drive.google.com/file/d/1rcAbjuDDeYSXKFaAk8aNNdjEUH7qmolr/view?usp=sharing)**.
 * Reach out to me **pshyamprasad2018@gmail.com**
 
 ## Connect with me
